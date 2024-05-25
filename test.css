@@ -3,6 +3,8 @@
 *{
     list-style: none;
     text-decoration: none;
+    margin: 0;
+    padding: 0;
 }
 nav{
     display: flex;
@@ -73,10 +75,12 @@ li a{
     display: flex;
     justify-content: space-evenly;
     width: 450px;
+    padding-top: 10px;
 }
 div ul{
     justify-content: space-evenly;
     width: 1500px;
+    padding-top: 15px;
 }
 .paragraph-1{
     font-family: Work Sans;
@@ -142,4 +146,25 @@ div ul{
     width: 664px;
     height: 380px;
     background-color: white;
+}
+.value{
+    font-family: Playfair Display;
+    font-size: 85px;
+    font-weight: 700;
+    line-height: 85px;
+    text-align: center;
+}
+.guide{
+    font-family: Work Sans;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 25.81px;
+    text-align: center;
+}
+.cap{
+    width: 702px;
+    height: 158px;
+    padding-top: 100px;
+    padding-left: 450px;
+    color: white;
 }
