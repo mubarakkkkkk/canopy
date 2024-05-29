@@ -77,7 +77,7 @@ li a{
     width: 600px;
     padding-top: 10px;
 }
-div ul{
+.intersect{
     justify-content: space-evenly;
     width: 1500px;
 }
@@ -333,7 +333,62 @@ figcaption a{
     padding-right: 5px;
 }
 .main-rectangle{
-    width: 1384px;
-    height: 565px;
-    border-radius: 20px 0px 0px 0px;
+    width: 1000px;
+    height: 500px;
+    border-radius: 20px 0px 0px 20px;
+    background-color: white;
+    border: 1px solid black;
+}
+.open-positions{
+    font-family: playfair display;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: left;
+}
+.lists{
+    list-style: url(/Images/Group\ 302.png);
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    width: 650px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.open-options{
+    width: 218px;
+    height: 46px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: #15B1D9;
+    border: none;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18.77px;
+    color: white;
+    cursor: pointer;
+}
+.rectangle-shadow{
+    background-color: black;
+    width: 1000px;
+    height: 500px;
+    border-radius: 20px 0px 0px 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.list-box{
+    padding-left: 70px;
+    width: 1000px;
+    padding-top: 50px;
+}
+.sorce{
+    padding-top: 20px;
+}
+.overall-containerr{
+    display: flex;
+    height: 1000px;
+    width: 100%;
+    position: relative;
 }
