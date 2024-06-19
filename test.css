@@ -707,3 +707,175 @@ figcaption a{
     width: 100%;
     padding-top: 100px;
 }
+.contactus{
+    font-family: playfair display;
+    font-size: 85px;
+    font-weight: 700;
+    line-height: 85px;
+    text-align: left;
+}
+.submit{
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left
+}
+.canopy{
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+}
+.data{
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+}
+.bug{
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+}
+.first-name{
+    width: 500px;
+    height: 50px;
+    background-color: #F1F3F7;
+    display: flex;
+}
+.last-name{
+    width: 500px;
+    height: 50px;
+    background-color: #F1F3F7;
+    display: flex;  
+    margin-top:30px;  
+}
+.buisness{
+    width: 500px;
+    height: 50px;
+    background-color: #F1F3F7;
+    display: flex;  
+    margin-top:30px; 
+}
+.message{
+    width: 500px;
+    height: 100px;
+    background-color: #F1F3F7;
+    display: flex;
+    margin-top: 30px;
+}
+.last-name input{
+    height: 20px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-top: 15px;
+}
+.first-name input{
+    height: 20px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-top: 15px;
+}
+.message input{
+    border: 1px solid transparent;
+    background-color: transparent;
+}
+.buisness input{
+    height: 20px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-top: 15px;
+}
+.first-name p{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30.6px;
+    text-align: left;
+    margin-top: 10px;
+}
+.last-name p{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30.6px;
+    text-align: left;
+    margin-top: 10px;
+}
+.message p{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30.6px;
+    text-align: left;
+}
+.buisness p{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30.6px;
+    text-align: left;
+    margin-top: 10px;
+}
+input checkbox{
+    color: #0CE6C7;
+}
+.ndbutton{
+    width: 124px;
+    height: 46px;
+    border-radius: 100px 100px 100px 100px;
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 19.94px;
+    background-color: #2B4BFF;
+    color: white;
+    border: none;
+    cursor: pointer; 
+    margin-top: 20px;         
+}
+.checkbox1{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20.4px;
+    text-align: left;
+    padding-top: 50px;
+    display: flex;
+}
+.checkbox2{
+    font-family: Work Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20.4px;
+    text-align: left;
+    margin-top: 20px;
+    display: flex;    
+}
+.container-6{
+    display: flex;
+}
+.rhs{
+    padding-left: 274px;
+}
+.blackoutline{
+    background-color: black;
+    width: 607px;
+    height: 590px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+}
+.sub-container{
+    background-color: white;
+    border: 1px black solid ;
+    width: 555px;
+    height: 555px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
